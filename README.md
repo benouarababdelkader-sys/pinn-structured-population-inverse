@@ -66,4 +66,4 @@ Size-dependent growth g(x) and recruitment term, estimation of unknown functions
 ```
 pip install -r requirements.txt
 ```
-Then open `pinn_structured_population.ipynb` (works in Google Colab; a GPU is optional).
+Then open `pinn_structured_population_inverse.ipynb (works in Google Colab; a GPU is optional).
